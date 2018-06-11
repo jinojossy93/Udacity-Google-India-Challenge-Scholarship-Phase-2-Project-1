@@ -11,7 +11,7 @@ This is my first project for Udacity Google India Challenge Scholarship in Andro
 
 ---
 
-# [Project 1 - PiedPiper - Build a Single Screen App](https://github.com/jinojossy93/Udacity-Google-India-Challenge-Scholarship-Phase-2-Project-1/tree/master/NanoDegreeProj1)
+# [Project 1 - Build a Single Screen App](https://github.com/jinojossy93/Udacity-Google-India-Challenge-Scholarship-Phase-2-Project-1/tree/master/NanoDegreeProj1)
 
 Design and implement a single screen app that displays information about me :)
 
