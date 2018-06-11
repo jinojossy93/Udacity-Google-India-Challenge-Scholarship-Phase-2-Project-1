@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Jino Jossy</string>
+    <string name="name">Jino Jossy</string>
+    <string name="addr1">Plavilayil Puthen Veedu</string>
+    <string name="addr2">Karukone P.O, Kannancodu</string>
+    <string name="addr3">Anchal, Kerala, INDIA</string>
+    <string name="about_me">I am a technology enthusiast. \nLove to work on latest technologies.
+        Would spend hours on tech related topics. \nCan survive one day without any food</string>
+    <string name="action_settings">Settings</string>
+</resources>
